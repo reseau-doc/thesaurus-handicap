@@ -1,5 +1,5 @@
 # thesaurus-handicap
-Mise à jour du [thésaurus Handicap V.2.0](https://reseaudoc.wordpress.com/thesaurus-handicap/) (2011) vers V.2.1
+Mise à jour du [thésaurus Handicap V.2.0](https://reseaudoc.files.wordpress.com/2018/04/thesaurus-handicap_2011_v_2-0.pdf) (2011) vers V.2.1
 
 Cette mise à jour a pour projet de :
 - Ajouter des termes
